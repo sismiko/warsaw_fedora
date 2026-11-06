@@ -20,4 +20,4 @@ OBS1: após instalação é preciso permitir explicitamente que o browser acesse
 
 OBS2: alguns browsers, por exemplo Librewolf, precisam carregar diretamente o certificado autoasinado (/usr/local/etc/warsaw/rootca.crt) ou o módulo de certificados builtin (NSS:Root Certs - libnssckbi.so) para acesso aos certificados instalados a nível do sistema operacional (ver: Configurações - Privacidade e Segurança - Conexão e segurança de software - Configurações Avançadas - Certificados - Gerenciador de Dispositivos de Segurança). 
 
-Dúvidas aidcionais, envia um email: warsaw_fedora@outlook.com.br
+Dúvidas adicionais, envia um email: warsaw_fedora@outlook.com.br
