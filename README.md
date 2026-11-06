@@ -9,11 +9,7 @@ Utiliza o binário original do warsaw v2.22.1.
 Ao baixar, certifique-se que o script instala_warsaw.sh tenha permissão de execução e execute como administrador:
 
 ```shell
-
-chmod +x instala_warsaw.sh
-
-sudo ./instala_warsaw.sh
-
+chmod +x instala_warsaw.sh && sudo ./instala_warsaw.sh
 ```
 
 OBS1: após instalação é preciso permitir explicitamente que o browser acesse conteúdo no computador local acessando o site que depende do Warsaw.
